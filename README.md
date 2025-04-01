@@ -8,24 +8,39 @@ This space is for users, clients, and contributors to share their thoughts, sugg
 
 ---
 
-## 📢 How to Leave Feedback | 피드백 남기는 방법
+## 📢 Where to Leave Feedback | 피드백은 어디에 남기나요?
 
-Please use the [Discussions](https://github.com/saerosoft/sohocrm-feedback/discussions) tab to:
+Please use the appropriate tab depending on your purpose:  
+목적에 따라 아래 탭을 이용해주세요:
 
-- 💡 Suggest new features | 새로운 기능을 제안해주세요  
-- 🐛 Report bugs | 버그를 제보해주세요  
-- ❓ Ask questions | 궁금한 점을 질문해주세요  
-- 💬 Share general thoughts | 다양한 아이디어나 의견을 나눠주세요  
+### 🐛 Issue (버그 또는 문제 발생 시)
 
-> 🔒 **Note:** This repository does not contain any source code.  
-> 이 저장소에는 소스 코드는 포함되어 있지 않습니다.
+- Found a bug?
+- Need to report a problem?
+- Experiencing unexpected behavior?
+
+👉 Use the **[Issues](https://github.com/saerosoft/sohocrm-feedback/issues)** tab.
+
+> ❗ **버그나 실제 문제 발생**에 대해서는 반드시 Issue 탭을 사용해주세요.
+
+---
+
+### 💬 Discussion (기타 피드백, 질문, 제안 등)
+
+- Want to suggest a new feature?
+- Have general questions or ideas?
+- Want to participate in a discussion?
+
+👉 Use the **[Discussions](https://github.com/saerosoft/sohocrm-feedback/discussions)** tab.
+
+> 💡 **기능 제안, 질문, 토론 등은 Discussions 탭**을 이용해주세요.
 
 ---
 
 ## 📂 How to Submit an Issue | 이슈 제출 방법
 
-If you prefer to use **Issues** instead of Discussions, please follow the template below.  
-Discussions 대신 GitHub Issue를 통해 피드백을 남기셔도 됩니다. 아래 템플릿을 참고해주세요:
+When using the Issue tab, please follow the template below.  
+Issue 탭을 사용할 때는 아래 템플릿을 참고해주세요:
 
 ---
 
